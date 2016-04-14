@@ -1,0 +1,3 @@
+RewriteEngine on  
+RewriteCond $1 !^(index\.php|admin\.php|style|dwz|images|captcha|robots\.txt)  
+RewriteRule ^(.*)$ /ydr/index.php/$1 [L]

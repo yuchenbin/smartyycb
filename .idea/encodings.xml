@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.htaccess" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.travis.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/captcha" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dwz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/images" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/license.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/style" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ydr.sql" charset="UTF-8" />
+  </component>
+</project>
